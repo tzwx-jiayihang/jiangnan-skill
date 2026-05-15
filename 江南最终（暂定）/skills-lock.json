@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "darwin-skill": {
+      "source": "alchaincyf/darwin-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "fdb8f9a7b62a8e1ce232db33d4d31a90e54b6e1a10bf84ee67a442601f6abfc8"
+    },
+    "huashu-nuwa": {
+      "source": "alchaincyf/nuwa-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "475706bff84063994a37fea987b142d8bbc54b077d5938b62ced04d36457004c"
+    }
+  }
+}
